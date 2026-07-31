@@ -38,3 +38,10 @@ Last Updated → datetime
 Clean Size and convert to a numeric unit (e.g., MB).
 Handle "Varies with device" appropriately (especially in Size; optionally treat it as missing in version columns).
 Validate ranges and categories (e.g., ratings between 1 and 5).
+
+Check For Outliers:
+Rating
+Reviews
+Installs
+Price
+Size
