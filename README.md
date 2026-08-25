@@ -8,6 +8,30 @@
    - Data Cleaning
    - EDA
 
+GOOGLE PLAY STORE APPS EDA
+│
+├── 1. Univariate Analysis
+│   │
+│   ├── Category distribution
+│   ├── Type distribution
+│   ├── Content Rating distribution
+│   ├── Top Genres
+│   ├── Rating distribution
+│   ├── Reviews distribution
+│   ├── Installs distribution
+│   ├── Price distribution
+│   └── Size distribution
+│
+├── 2. Bivariate Analysis
+│   │
+│   ├── Rating vs Reviews
+│   ├── Rating vs Installs
+│   ├── Type vs Rating
+│
+└── 3. Multivariate Analysis
+    │
+    ├── Correlation Heatmap
+
 5. Dataset 2: Google Play Store User Reviews
    - Load Dataset
    - Dataset Overview
