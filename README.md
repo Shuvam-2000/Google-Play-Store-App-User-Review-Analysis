@@ -69,3 +69,32 @@ Reviews
 Installs
 Price
 Size
+
+
+COMBINED ANALYSIS
+│
+├── 1. Keep cleaned datasets
+│
+├── 2. Aggregate User Reviews by App
+│      ├── Review count
+│      ├── Positive %
+│      ├── Negative %
+│      ├── Neutral %
+│      ├── Avg Polarity
+│      └── Avg Subjectivity
+│
+├── 3. Quick checks on review summary
+│
+├── 4. Merge with App dataset using App
+│
+├── 5. Merge-specific sanity checks
+│
+├── 6. Combined Visualizations
+│      ├── Category vs Sentiment
+│      ├── Type vs Sentiment
+│      ├── Rating vs Sentiment
+│      └── Installs vs Sentiment
+│
+├── 7. Insights for each visualization
+│
+└── 8. Final Combined Analysis Conclusion
