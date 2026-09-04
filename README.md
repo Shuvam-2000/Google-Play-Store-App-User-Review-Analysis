@@ -8,7 +8,7 @@ The project combines **Python-based data cleaning and EDA**, **review-level sent
 
 ## 📊 Dashboard Preview
 
-![Google Play Store App & User Review Analysis Dashboard](https://drive.google.com/file/d/1xX-dQWbUp7DoRVeTcXn-DTkocslJHsIH/view?usp=drive_link)
+![Google Play Store App & User Review Analysis Dashboard](![Google Play Store App & User Review Analysis Dashboard](assets/dashboard_overview.png))
 
 The dashboard provides an interactive summary of app performance, review volume, ratings, install volume, and user sentiment.
 
